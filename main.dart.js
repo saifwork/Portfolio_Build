@@ -24689,7 +24689,7 @@ es:function es(a,b,c,d){var _=this
 _.a=a
 _.b="assets/images/cloudRed.svg"
 _.c=b
-_.d=0
+_.d=5
 _.e=!0
 _.f=null
 _.r=c
@@ -83657,7 +83657,7 @@ A.afL.prototype={
 $1(a){return new A.uq($.b7())},
 $S:490}
 A.afM.prototype={
-$1(a){return new A.es($.avN(),$.a48()[0].a,B.tY,$.b7())},
+$1(a){return new A.es($.avN(),$.a48()[5].a,B.tY,$.b7())},
 $S:491}
 A.KC.prototype={}
 A.M_.prototype={}
@@ -83839,7 +83839,7 @@ aM(){return new A.VI(B.l)}}
 A.VI.prototype={
 bg(){this.bO()},
 Z(a){var s=null,r=A.hF(15)
-return A.EJ(B.i,A.aE9(A.c3(s,A.c3(s,A.h9(A.a([B.cT,A.k0(A.aAP(A.hF(50),A.c3(s,A.aPn("assets/images/profile01.jpeg",s,s),B.j,s,s,s,s,120,s,s,s,s,s)),s,s),A.c3(B.W,A.i5("Hi, I am Md Saif",s,s,s,s,s,s,s,A.a3R().$2$fontSize$fontWeight(20,B.ay),s,s,s),B.j,s,s,s,s,s,s,B.ig,s,s,s),A.NF(A.Kt(A.i5("I am currently working as a Game Developer at Pruedent Gaming Pvt. Ltd., having nearly two years of experience in software development to the table. My technical expertise spans across multiple programming languages including C, C++, Java, Golang, and Dart. I am adept at using frameworks and tools such as Flutter, Gin, and Mux to build efficient and scalable applications.\n\nWhen I'm not immersed in development, you'll often find me enjoying movies or series, which helps me stay refreshed and inspired. My passion for technology and problem-solving drives me to continuously improve my skills and explore new advancements in the field.",s,s,s,s,s,s,s,A.a3R().$2$fontSize$fontWeight(15,B.a0),s,s,s)),s,B.ie)],t.p),B.di,B.al,B.T),B.j,s,s,new A.d3(B.GH,s,s,r,s,s,B.Y),s,s,s,B.b1,s,s,s),B.j,s,s,s,s,s,B.b1,B.JC,s,s,s)))}}
+return A.EJ(B.i,A.aE9(A.c3(s,A.c3(s,A.h9(A.a([B.cT,A.k0(A.aAP(A.hF(50),A.c3(s,A.aPn("assets/images/profile01.jpeg",s,s),B.j,s,s,s,s,120,s,s,s,s,s)),s,s),A.c3(B.W,A.i5("Hi, I am Md Saif",s,s,s,s,s,s,s,A.a3R().$2$fontSize$fontWeight(20,B.ay),s,s,s),B.j,s,s,s,s,s,s,B.ig,s,s,s),A.NF(A.Kt(A.i5("I am currently working as a Game Developer at Prudent Gaming Pvt. Ltd., having nearly two years of experience in software development to the table. My technical expertise spans across multiple programming languages including C, C++, Java, Golang, and Dart. I am adept at using frameworks and tools such as Flutter, Gin, and Mux to build efficient and scalable applications.\n\nWhen I'm not immersed in development, you'll often find me enjoying movies or series, which helps me stay refreshed and inspired. My passion for technology and problem-solving drives me to continuously improve my skills and explore new advancements in the field.",s,s,s,s,s,s,s,A.a3R().$2$fontSize$fontWeight(15,B.a0),s,s,s)),s,B.ie)],t.p),B.di,B.al,B.T),B.j,s,s,new A.d3(B.GH,s,s,r,s,s,B.Y),s,s,s,B.b1,s,s,s),B.j,s,s,s,s,s,B.b1,B.JC,s,s,s)))}}
 A.Nh.prototype={
 Z(a){var s=A.a([B.Ck,B.cT],t.p)
 $.aAb()
@@ -97489,7 +97489,7 @@ B.Jw=new A.bt(15,15,15,15)
 B.Jx=new A.bt(16,0,16,0)
 B.Jy=new A.bt(18,0,18,0)
 B.ig=new A.bt(20,20,20,20)
-B.Jz=new A.bt(20,70,20,70)
+B.Jz=new A.bt(20,70,20,45)
 B.JA=new A.bt(40,24,40,0)
 B.JB=new A.bt(47,0,47,21)
 B.JC=new A.bt(5,0,5,0)
@@ -100954,7 +100954,7 @@ r($,"b4_","aLM",()=>A.a([A.awr($.aLP(),B.Kw),A.awr($.avN(),B.KD),A.awr($.aAc(),B
 r($,"b3X","a48",()=>{var q="assets/images/cloudyBlue.svg"
 return A.a([A.AY(B.tC,B.Lo,"assets/images/cloudRed.svg"),A.AY(B.c8,B.Ll,q),A.AY(B.D1,B.Lm,q),A.AY(B.Da,B.Lp,q),A.AY(B.tF,B.Ln,q),A.AY(B.Gw,B.Lq,q)],A.X("m<M_>"))})
 r($,"b3R","a47",()=>{var q=null
-return A.a([A.jX("assets/icons/about.svg",B.i,q,B.zJ,"About"),A.jX("assets/icons/skill.svg",B.i,q,B.UX,"Skills"),A.jX("assets/icons/experience.svg",B.i,q,B.JK,"Experience"),A.jX("assets/icons/education.svg",B.i,q,B.JE,"Education"),A.jX("assets/icons/linkedin.svg",B.n,"https://www.linkedin.com/in/md-saif-07bb52221/",q,"LinkedIn"),A.jX("assets/icons/github.svg",B.i,"https://github.com/saifwork?tab=repositories",q,"Github"),A.jX("assets/icons/resume.svg",B.i,"https://drive.google.com/file/d/1OhsrA30FF9xKCcfpRhR_3xSf4EY74yCs/view?usp=sharing",q,"Resume"),A.jX("assets/icons/email.svg",B.i,"saifwork30@gmail.com",q,"Email"),A.jX("assets/icons/tictactoe.svg",B.i,q,B.a0M,"XO"),A.jX("assets/icons/netflix.svg",B.n,q,B.a0N,"Netflix"),A.jX("assets/icons/sorting.svg",B.i,q,B.a0P,"Sortify"),A.jX("assets/icons/currencycon.svg",B.i,q,B.a0O,"RateMate")],A.X("m<KC>"))})
+return A.a([A.jX("assets/icons/about.svg",B.i,q,B.zJ,"About"),A.jX("assets/icons/skill.svg",B.i,q,B.UX,"Skills"),A.jX("assets/icons/experience.svg",B.i,q,B.JK,"Experience"),A.jX("assets/icons/education.svg",B.i,q,B.JE,"Education"),A.jX("assets/icons/linkedin.svg",B.i,"https://www.linkedin.com/in/md-saif-07bb52221/",q,"LinkedIn"),A.jX("assets/icons/github.svg",B.i,"https://github.com/saifwork?tab=repositories",q,"Github"),A.jX("assets/icons/resume.svg",B.i,"https://drive.google.com/file/d/1OhsrA30FF9xKCcfpRhR_3xSf4EY74yCs/view?usp=sharing",q,"Resume"),A.jX("assets/icons/email.svg",B.i,"saifwork30@gmail.com",q,"Email"),A.jX("assets/icons/tictactoe.svg",B.i,q,B.a0M,"XO"),A.jX("assets/icons/netflix.svg",B.n,q,B.a0N,"Netflix"),A.jX("assets/icons/sorting.svg",B.i,q,B.a0P,"Sortify"),A.jX("assets/icons/currencycon.svg",B.i,q,B.a0O,"RateMate")],A.X("m<KC>"))})
 s($,"b40","aAb",()=>{var q=t.s
 return A.a([A.OR(A.a(["Pursuing and expected to complete by 2025."],q),B.PG,"I.G.N.O.U.","Dec 2025","Varanasi, India","Jan 2024","Master of Computer Applications (Online Mode)"),A.OR(A.a(["Completed with a percentage of 80%."],q),B.tE,"V.B.S.P.U.","2022","Jaunpur, India","2019","Bachelor of Computer Applications")],A.X("m<Cy>"))})
 s($,"b46","aAd",()=>{var q="Varanasi, India",p=t.s

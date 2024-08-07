@@ -83759,7 +83759,7 @@ k.dm()
 m[11]=0.00999
 k.wa(0.06)
 m=10*d.gnu()
-i=A.h9(A.a([l,B.fX,A.uv(B.kT,A.c3(f,new A.rv(f,A.NF(A.Kt(A.k0(A.c3(f,A.k0(A.h9(A.a([A.a4S('"Don\'t run after success run after perfection success will follow."',25,3,10,A.jR().$2$color$fontWeight(B.i,B.v),f),new A.op(B.hm,f,f,A.a4S("-Baba Ranchhoddas",12,1,6,A.jR().$2$color$fontWeight(A.aj(153,255,255,255),B.v),f),f)],i),B.di,B.b7,B.T),f,f),B.j,f,f,f,f,f,B.b1,new A.bt(m,m,m,m),f,f,f),f,f)),A.cy(1e6,0),A.cy(e,0)),175.5*d.gna(),245*d.gnu(),f),B.j,f,f,f,f,f,B.Jq,f,f,f,f),f,k,!0)],i),B.S,B.al,B.T)
+i=A.h9(A.a([l,B.fX,A.uv(B.kT,A.c3(f,new A.rv(f,A.NF(A.Kt(A.k0(A.c3(f,A.k0(A.h9(A.a([A.a4S('"First, solve the problem.\nThen, write the code."',25,3,10,A.jR().$2$color$fontWeight(B.i,B.v),f),new A.op(B.hm,f,f,A.a4S("\u2013 John Johnson",12,1,6,A.jR().$2$color$fontWeight(A.aj(153,255,255,255),B.v),f),f)],i),B.di,B.b7,B.T),f,f),B.j,f,f,f,f,f,B.b1,new A.bt(m,m,m,m),f,f,f),f,f)),A.cy(1e6,0),A.cy(e,0)),175.5*d.gna(),245*d.gnu(),f),B.j,f,f,f,f,f,B.Jq,f,f,f,f),f,k,!0)],i),B.S,B.al,B.T)
 m=i}l=t.p
 return A.EJ(f,A.Fu(B.d5,A.a([a,p,o,q,new A.Ez("assets/rive/casette_tape_loading.riv",B.cr,f),A.h9(A.a([B.fX,A.lV(A.a([n,r,m],l),B.S,B.b7,B.T),A.jB(f,10*d.gna(),f),A.axP(new A.aaZ(b),new A.ab_(),c,t.sJ)],l),B.S,B.b7,B.T)],l),B.e3))}}
 A.aaT.prototype={
@@ -83824,7 +83824,7 @@ for(r=t.p,q=0;q<12;++q){p=$.a47()[q]
 if(l.a.k(0,$.avN())){o=new A.b4(8,8)
 o=new A.d2(o,o,o,o)}else{o=new A.b4(100,100)
 o=new A.d2(o,o,o,o)}n=$.a47()[q]
-s[q]=A.c3(m,A.h9(A.a([A.O7(m,A.c3(m,new A.ox(B.W,m,m,A.akp(n.b,m,B.cr,30,30),m),B.j,m,m,new A.d3(p.d,m,m,o,m,m,B.Y),m,50,B.Jr,m,m,m,50),B.b_,!1,m,m,m,m,m,m,m,m,m,m,m,m,m,m,new A.af4(q,l),m,m,m),new A.iV(60,m,new A.ox(B.W,m,m,new A.uh(n.a,m,A.a3R().$3$color$fontSize$fontWeight(B.i,12,B.v),m,m,m,m,m,B.eb,m,1,m,m),m),m)],r),B.S,B.al,B.T),B.j,m,m,m,m,m,B.Jv,m,m,m,m)}return A.c3(m,A.h9(A.a([A.amr(B.ha,s,B.a0S),A.lV(A.a([A.i5("Build By Me ",m,m,1,B.eb,m,m,m,A.a3R().$3$color$fontSize$fontWeight(B.i,13,B.v),m,m,m),A.akp("assets/icons/heart.svg",m,B.cr,20,20),A.i5(" Using ",m,m,1,B.eb,m,m,m,A.a3R().$3$color$fontSize$fontWeight(B.i,13,B.v),m,m,m),A.akp("assets/icons/flutter.svg",m,B.cr,20,20)],r),B.S,B.b7,B.T)],r),B.S,B.jd,B.T),B.j,m,m,m,m,m,m,B.Jz,m,m,m)}}
+s[q]=A.c3(m,A.h9(A.a([A.O7(m,A.c3(m,new A.ox(B.W,m,m,A.akp(n.b,m,B.cr,30,30),m),B.j,m,m,new A.d3(p.d,m,m,o,m,m,B.Y),m,50,B.Jr,m,m,m,50),B.b_,!1,m,m,m,m,m,m,m,m,m,m,m,m,m,m,new A.af4(q,l),m,m,m),new A.iV(60,m,new A.ox(B.W,m,m,new A.uh(n.a,m,A.a3R().$3$color$fontSize$fontWeight(B.i,12,B.v),m,m,m,m,m,B.eb,m,1,m,m),m),m)],r),B.S,B.al,B.T),B.j,m,m,m,m,m,B.Jv,m,m,m,m)}return A.c3(m,A.h9(A.a([A.amr(B.ha,s,B.a0S),A.lV(A.a([A.i5("Build with Love  ",m,m,1,B.eb,m,m,m,A.a3R().$3$color$fontSize$fontWeight(B.i,15,B.v),m,m,m),A.akp("assets/icons/heart.svg",m,B.cr,20,20),A.i5("  Using  ",m,m,1,B.eb,m,m,m,A.a3R().$3$color$fontSize$fontWeight(B.i,15,B.v),m,m,m),A.akp("assets/icons/flutter.svg",m,B.cr,20,20)],r),B.S,B.b7,B.T)],r),B.S,B.jd,B.T),B.j,m,m,m,m,m,m,B.Jz,m,m,m)}}
 A.af4.prototype={
 $0(){var s=$.a47()[this.a],r=s.f
 if(r!=null)this.b.vE(r,s.a==="Email")
@@ -97489,7 +97489,7 @@ B.Jw=new A.bt(15,15,15,15)
 B.Jx=new A.bt(16,0,16,0)
 B.Jy=new A.bt(18,0,18,0)
 B.ig=new A.bt(20,20,20,20)
-B.Jz=new A.bt(20,70,20,0)
+B.Jz=new A.bt(20,70,20,70)
 B.JA=new A.bt(40,24,40,0)
 B.JB=new A.bt(47,0,47,21)
 B.JC=new A.bt(5,0,5,0)
@@ -100954,7 +100954,7 @@ r($,"b4_","aLM",()=>A.a([A.awr($.aLP(),B.Kw),A.awr($.avN(),B.KD),A.awr($.aAc(),B
 r($,"b3X","a48",()=>{var q="assets/images/cloudyBlue.svg"
 return A.a([A.AY(B.tC,B.Lo,"assets/images/cloudRed.svg"),A.AY(B.c8,B.Ll,q),A.AY(B.D1,B.Lm,q),A.AY(B.Da,B.Lp,q),A.AY(B.tF,B.Ln,q),A.AY(B.Gw,B.Lq,q)],A.X("m<M_>"))})
 r($,"b3R","a47",()=>{var q=null
-return A.a([A.jX("assets/icons/about.svg",B.i,q,B.zJ,"About"),A.jX("assets/icons/skill.svg",B.i,q,B.UX,"Skills"),A.jX("assets/icons/experience.svg",B.i,q,B.JK,"Experience"),A.jX("assets/icons/education.svg",B.i,q,B.JE,"Education"),A.jX("assets/icons/linkedin.svg",B.i,"https://www.linkedin.com/in/md-saif-07bb52221/",q,"LinkedIn"),A.jX("assets/icons/github.svg",B.i,"https://github.com/saifwork?tab=repositories",q,"Github"),A.jX("assets/icons/resume.svg",B.i,"https://drive.google.com/file/d/1OhsrA30FF9xKCcfpRhR_3xSf4EY74yCs/view?usp=sharing",q,"Resume"),A.jX("assets/icons/email.svg",B.i,"saifwork30@gmail.com",q,"Email"),A.jX("assets/icons/tictactoe.svg",B.i,q,B.a0M,"XO"),A.jX("assets/icons/netflix.svg",B.i,q,B.a0N,"Netflix"),A.jX("assets/icons/sorting.svg",B.i,q,B.a0P,"Sortify"),A.jX("assets/icons/currencycon.svg",B.i,q,B.a0O,"RateMate")],A.X("m<KC>"))})
+return A.a([A.jX("assets/icons/about.svg",B.i,q,B.zJ,"About"),A.jX("assets/icons/skill.svg",B.i,q,B.UX,"Skills"),A.jX("assets/icons/experience.svg",B.i,q,B.JK,"Experience"),A.jX("assets/icons/education.svg",B.i,q,B.JE,"Education"),A.jX("assets/icons/linkedin.svg",B.n,"https://www.linkedin.com/in/md-saif-07bb52221/",q,"LinkedIn"),A.jX("assets/icons/github.svg",B.i,"https://github.com/saifwork?tab=repositories",q,"Github"),A.jX("assets/icons/resume.svg",B.i,"https://drive.google.com/file/d/1OhsrA30FF9xKCcfpRhR_3xSf4EY74yCs/view?usp=sharing",q,"Resume"),A.jX("assets/icons/email.svg",B.i,"saifwork30@gmail.com",q,"Email"),A.jX("assets/icons/tictactoe.svg",B.i,q,B.a0M,"XO"),A.jX("assets/icons/netflix.svg",B.n,q,B.a0N,"Netflix"),A.jX("assets/icons/sorting.svg",B.i,q,B.a0P,"Sortify"),A.jX("assets/icons/currencycon.svg",B.i,q,B.a0O,"RateMate")],A.X("m<KC>"))})
 s($,"b40","aAb",()=>{var q=t.s
 return A.a([A.OR(A.a(["Pursuing and expected to complete by 2025."],q),B.PG,"I.G.N.O.U.","Dec 2025","Varanasi, India","Jan 2024","Master of Computer Applications (Online Mode)"),A.OR(A.a(["Completed with a percentage of 80%."],q),B.tE,"V.B.S.P.U.","2022","Jaunpur, India","2019","Bachelor of Computer Applications")],A.X("m<Cy>"))})
 s($,"b46","aAd",()=>{var q="Varanasi, India",p=t.s
